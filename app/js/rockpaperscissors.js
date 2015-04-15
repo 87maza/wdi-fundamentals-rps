@@ -20,7 +20,7 @@ function randomPlay() {
 ////////////////////////////////////////////////
 /*           Write Your Code Below            */
 ////////////////////////////////////////////////
-
+//WDI-DTLA 27 APR 15 MARTIN MAZA
 function getPlayerMove(move) {
     // Write an expression that operates on a variable called `move`
     // If a `move` has a value, your expression should evaluate to that value.
@@ -116,3 +116,4 @@ function playToFive() {
     return [playerWins, computerWins];
      }
      playToFive();
+//WDI-DTLA 27 APR 15 MARTIN MAZA
